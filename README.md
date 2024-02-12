@@ -36,12 +36,6 @@ This repository serves as a reference for developers aiming to implement GHL OAu
 | `user_type` | Location/Company |
 
 
-## Getting Started
-If you're new to GHL integration, follow these steps to set up authentication and start using GHL APIs in your PHP application:
-### 1. Clone the Repository:
-#### git clone 
-https://github.com/your-username/ghl-php-integration.git
-
 ## Documentation
 Detailed documentation on GHL OAuth Authentication and API usage can be found in the [official GHL Developer Portal](https://highlevel.stoplight.io/docs/integrations/a04191c0fabf9-authorization).
 
