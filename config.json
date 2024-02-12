@@ -1,0 +1,15 @@
+{
+    "baseUrl": "https://marketplace.gohighlevel.com",
+    "clientId": "",
+    "clientSecret": "",
+    "sos": "",
+    "code": "",
+    "access_token": "",
+    "refreshToken": "",
+    "userType": "Location",
+    "companyId": "",
+    "locationId": "",
+    "scope": "",
+    "expires_in": 86399,
+    "userId": ""
+}
